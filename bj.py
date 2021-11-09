@@ -8,6 +8,9 @@
    "outputs": [],
    "source": [
     "print(\"Hello Fred\")"
+    a=2
+    b=3
+    print("a+b")
    ]
   }
  ],
